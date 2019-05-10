@@ -15,7 +15,7 @@ namespace CRMAPP1
 		protected System.Web.UI.WebControls.Panel Panel1;
 		protected System.Web.UI.WebControls.LinkButton LinkButton1;
 		protected System.Web.UI.WebControls.LinkButton LinkButton2;
-		protected System.Web.UI.WebControls.LinkButton LinkButton3;
+		protected System.Web.UI.WebControls.LinkButton LinkButton4;
 		protected System.Web.UI.WebControls.Image Image1;
 
 		private void Page_Load(object sender, System.EventArgs e)
